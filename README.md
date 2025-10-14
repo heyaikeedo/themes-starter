@@ -124,10 +124,10 @@ theme-starter/
 
    ```env
    # Windows path example:
-   BUILD_DIR=C:/xampp/htdocs/aikeedo/public/content/plugins/your-vendor/your-theme-name
+   BUILD_DIR=C:/xampp/htdocs/aikeedo/extra/extensions/your-vendor/your-theme-name
 
    # Linux/Mac path example:
-   BUILD_DIR=/var/www/aikeedo/public/content/plugins/your-vendor/your-theme-name
+   BUILD_DIR=/var/www/aikeedo/extra/extensions/your-vendor/your-theme-name
 
    # Aikeedo server URL (required for development)
    AIKEEDO_SERVER=http://localhost:8000
