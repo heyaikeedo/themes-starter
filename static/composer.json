@@ -1,10 +1,10 @@
 {
     "name": "heyaikeedo/starter",
     "description": "Aikeedo theme starter",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "type": "aikeedo-theme",
     "homepage": "https://aikeedo.com",
-    "time": "2024-03-21",
+    "time": "2025-10-14",
     "license": "AIKEEDO",
     "authors": [
         {
@@ -33,7 +33,11 @@
         "description": "Aikeedo theme starter",
         "logo": "https://aikeedo.com/",
         "icon": "https://aikeedo.com/",
-        "status": "active"
+        "status": "active",
+        "public": [
+            "assets",
+            ".vite"
+        ]
     },
     "autoload": {
         "psr-4": {

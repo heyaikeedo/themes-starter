@@ -92,7 +92,11 @@ theme-starter/
        "description": "Your theme description",
        "logo": "https://your-site.com/logo.png",
        "icon": "https://your-site.com/icon.png",
-       "status": "active"
+       "status": "active",
+       "public": [
+            "assets",
+            ".vite"
+        ]
      },
      "autoload": {
        "psr-4": {
