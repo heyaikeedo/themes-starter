@@ -1,43 +1,51 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Theme Translations\n"
-"Report-Msgid-Bugs-To: \n"
-"Last-Translator: \n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Language: ar-SA\n"
 "Language-Team: \n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
-"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5);\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5);\n"
+"Project-Id-Version: Theme Translations\n"
+"Report-Msgid-Bugs-To: \n"
 "X-Domain: theme\n"
 
-msgctxt "button"
-msgid "Sign in"
-msgstr ""
-
-msgctxt "button"
-msgid "Get started"
-msgstr ""
-
-msgctxt "custom"
-msgid "Custom page"
-msgstr ""
-
-msgctxt "custom"
-msgid "This is a custom page"
-msgstr ""
-
-msgctxt "button"
-msgid "Go back"
-msgstr ""
-
+#: sections/header.twig:15
 msgctxt "header"
 msgid "Aikeedo Theme Starter"
-msgstr ""
+msgstr "مُبدئ قالب Aikeedo"
 
+#: sections/header.twig:16
 msgctxt "header"
 msgid "This is a starter theme for Aikeedo"
-msgstr ""
+msgstr "هذا قالب مُبدئ لـ Aikeedo"
 
-msgid "Unlimited"
-msgstr ""
+#: templates/custom.twig:8
+msgctxt "custom"
+msgid "Custom page"
+msgstr "صفحة مخصصة"
+
+#: templates/custom.twig:9
+msgctxt "custom"
+msgid "This is a custom page"
+msgstr "هذه صفحة مخصصة"
+
+#: templates/custom.twig:16
+msgctxt "button"
+msgid "Go back"
+msgstr "عودة"
+
+#: templates/index.twig:21
+msgctxt "button"
+msgid "Sign in"
+msgstr "تسجيل الدخول"
+
+#: templates/index.twig:25
+msgctxt "button"
+msgid "Get started"
+msgstr "ابدأ"
+
+#: templates/index.twig:32
+msgctxt "button"
+msgid "Custom page"
+msgstr "صفحة مخصصة"

@@ -1,42 +1,51 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Theme Translations\n"
-"Report-Msgid-Bugs-To: \n"
-"Last-Translator: \n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Language: it-IT\n"
 "Language-Team: \n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Theme Translations\n"
+"Report-Msgid-Bugs-To: \n"
 "X-Domain: theme\n"
 
-msgctxt "button"
-msgid "Sign in"
-msgstr ""
-
-msgctxt "button"
-msgid "Get started"
-msgstr ""
-
-msgctxt "custom"
-msgid "Custom page"
-msgstr ""
-
-msgctxt "custom"
-msgid "This is a custom page"
-msgstr ""
-
-msgctxt "button"
-msgid "Go back"
-msgstr ""
-
+#: sections/header.twig:15
 msgctxt "header"
 msgid "Aikeedo Theme Starter"
-msgstr ""
+msgstr "Tema Starter Aikeedo"
 
+#: sections/header.twig:16
 msgctxt "header"
 msgid "This is a starter theme for Aikeedo"
-msgstr ""
+msgstr "Questo è un tema starter per Aikeedo"
 
-msgid "Unlimited"
-msgstr ""
+#: templates/custom.twig:8
+msgctxt "custom"
+msgid "Custom page"
+msgstr "Pagina personalizzata"
+
+#: templates/custom.twig:9
+msgctxt "custom"
+msgid "This is a custom page"
+msgstr "Questa è una pagina personalizzata"
+
+#: templates/custom.twig:16
+msgctxt "button"
+msgid "Go back"
+msgstr "Torna indietro"
+
+#: templates/index.twig:21
+msgctxt "button"
+msgid "Sign in"
+msgstr "Accedi"
+
+#: templates/index.twig:25
+msgctxt "button"
+msgid "Get started"
+msgstr "Inizia"
+
+#: templates/index.twig:32
+msgctxt "button"
+msgid "Custom page"
+msgstr "Pagina personalizzata"

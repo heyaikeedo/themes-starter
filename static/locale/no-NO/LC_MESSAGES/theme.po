@@ -1,42 +1,51 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Theme Translations\n"
-"Report-Msgid-Bugs-To: \n"
-"Last-Translator: \n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Language: no-NO\n"
 "Language-Team: \n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Theme Translations\n"
+"Report-Msgid-Bugs-To: \n"
 "X-Domain: theme\n"
 
-msgctxt "button"
-msgid "Sign in"
-msgstr ""
-
-msgctxt "button"
-msgid "Get started"
-msgstr ""
-
-msgctxt "custom"
-msgid "Custom page"
-msgstr ""
-
-msgctxt "custom"
-msgid "This is a custom page"
-msgstr ""
-
-msgctxt "button"
-msgid "Go back"
-msgstr ""
-
+#: sections/header.twig:15
 msgctxt "header"
 msgid "Aikeedo Theme Starter"
-msgstr ""
+msgstr "Aikeedo Theme Starter"
 
+#: sections/header.twig:16
 msgctxt "header"
 msgid "This is a starter theme for Aikeedo"
-msgstr ""
+msgstr "Dette er et starttema for Aikeedo"
 
-msgid "Unlimited"
-msgstr ""
+#: templates/custom.twig:8
+msgctxt "custom"
+msgid "Custom page"
+msgstr "Egendefinert side"
+
+#: templates/custom.twig:9
+msgctxt "custom"
+msgid "This is a custom page"
+msgstr "Dette er en egendefinert side"
+
+#: templates/custom.twig:16
+msgctxt "button"
+msgid "Go back"
+msgstr "Gå tilbake"
+
+#: templates/index.twig:21
+msgctxt "button"
+msgid "Sign in"
+msgstr "Logg inn"
+
+#: templates/index.twig:25
+msgctxt "button"
+msgid "Get started"
+msgstr "Kom i gang"
+
+#: templates/index.twig:32
+msgctxt "button"
+msgid "Custom page"
+msgstr "Egendefinert side"

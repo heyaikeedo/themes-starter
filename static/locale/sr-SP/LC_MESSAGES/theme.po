@@ -1,43 +1,51 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Theme Translations\n"
-"Report-Msgid-Bugs-To: \n"
-"Last-Translator: \n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Language: sr-SP\n"
 "Language-Team: \n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"Project-Id-Version: Theme Translations\n"
+"Report-Msgid-Bugs-To: \n"
 "X-Domain: theme\n"
 
-msgctxt "button"
-msgid "Sign in"
-msgstr ""
-
-msgctxt "button"
-msgid "Get started"
-msgstr ""
-
-msgctxt "custom"
-msgid "Custom page"
-msgstr ""
-
-msgctxt "custom"
-msgid "This is a custom page"
-msgstr ""
-
-msgctxt "button"
-msgid "Go back"
-msgstr ""
-
+#: sections/header.twig:15
 msgctxt "header"
 msgid "Aikeedo Theme Starter"
-msgstr ""
+msgstr "Aikeedo početna tema"
 
+#: sections/header.twig:16
 msgctxt "header"
 msgid "This is a starter theme for Aikeedo"
-msgstr ""
+msgstr "Ovo je početna tema za Aikeedo"
 
-msgid "Unlimited"
-msgstr ""
+#: templates/custom.twig:8
+msgctxt "custom"
+msgid "Custom page"
+msgstr "Prilagođena stranica"
+
+#: templates/custom.twig:9
+msgctxt "custom"
+msgid "This is a custom page"
+msgstr "Ovo je prilagođena stranica"
+
+#: templates/custom.twig:16
+msgctxt "button"
+msgid "Go back"
+msgstr "Vrati se"
+
+#: templates/index.twig:21
+msgctxt "button"
+msgid "Sign in"
+msgstr "Prijavi se"
+
+#: templates/index.twig:25
+msgctxt "button"
+msgid "Get started"
+msgstr "Započni"
+
+#: templates/index.twig:32
+msgctxt "button"
+msgid "Custom page"
+msgstr "Prilagođena stranica"
