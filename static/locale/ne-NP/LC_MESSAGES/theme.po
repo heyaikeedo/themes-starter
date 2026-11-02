@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Language: ne-NP\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Domain: theme\n"
+
+#: sections/header.twig:15
+msgctxt "header"
+msgid "Aikeedo Theme Starter"
+msgstr "Aikeedo Theme Starter"
+
+#: sections/header.twig:16
+msgctxt "header"
+msgid "This is a starter theme for Aikeedo"
+msgstr "यो Aikeedo को लागि एउटा स्टार्टर थिम हो"
+
+#: templates/custom.twig:8
+msgctxt "custom"
+msgid "Custom page"
+msgstr "अनुकूलित पृष्ठ"
+
+#: templates/custom.twig:9
+msgctxt "custom"
+msgid "This is a custom page"
+msgstr "यो एउटा अनुकूलित पृष्ठ हो"
+
+#: templates/custom.twig:16
+msgctxt "button"
+msgid "Go back"
+msgstr "पछाडि जानुहोस्"
+
+#: templates/index.twig:21
+msgctxt "button"
+msgid "Sign in"
+msgstr "साइन इन गर्नुहोस्"
+
+#: templates/index.twig:25
+msgctxt "button"
+msgid "Get started"
+msgstr "सुरु गर्नुहोस्"
+
+#: templates/index.twig:32
+msgctxt "button"
+msgid "Custom page"
+msgstr "अनुकूलित पृष्ठ"

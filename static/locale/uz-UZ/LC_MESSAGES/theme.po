@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Language: uz-UZ\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Domain: theme\n"
+
+#: sections/header.twig:15
+msgctxt "header"
+msgid "Aikeedo Theme Starter"
+msgstr "Aikeedo Theme Starter"
+
+#: sections/header.twig:16
+msgctxt "header"
+msgid "This is a starter theme for Aikeedo"
+msgstr "Bu Aikeedo uchun boshlang‘ich mavzu"
+
+#: templates/custom.twig:8
+msgctxt "custom"
+msgid "Custom page"
+msgstr "Maxsus sahifa"
+
+#: templates/custom.twig:9
+msgctxt "custom"
+msgid "This is a custom page"
+msgstr "Bu maxsus sahifa"
+
+#: templates/custom.twig:16
+msgctxt "button"
+msgid "Go back"
+msgstr "Orqaga qaytish"
+
+#: templates/index.twig:21
+msgctxt "button"
+msgid "Sign in"
+msgstr "Kirish"
+
+#: templates/index.twig:25
+msgctxt "button"
+msgid "Get started"
+msgstr "Boshlash"
+
+#: templates/index.twig:32
+msgctxt "button"
+msgid "Custom page"
+msgstr "Maxsus sahifa"

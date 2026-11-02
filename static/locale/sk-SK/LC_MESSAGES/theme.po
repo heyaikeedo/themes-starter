@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Language: sk-SK\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
+"X-Domain: theme\n"
+
+#: sections/header.twig:15
+msgctxt "header"
+msgid "Aikeedo Theme Starter"
+msgstr "Úvodná téma Aikeedo"
+
+#: sections/header.twig:16
+msgctxt "header"
+msgid "This is a starter theme for Aikeedo"
+msgstr "Toto je úvodná téma pre Aikeedo"
+
+#: templates/custom.twig:8
+msgctxt "custom"
+msgid "Custom page"
+msgstr "Vlastná stránka"
+
+#: templates/custom.twig:9
+msgctxt "custom"
+msgid "This is a custom page"
+msgstr "Toto je vlastná stránka"
+
+#: templates/custom.twig:16
+msgctxt "button"
+msgid "Go back"
+msgstr "Späť"
+
+#: templates/index.twig:21
+msgctxt "button"
+msgid "Sign in"
+msgstr "Prihlásiť sa"
+
+#: templates/index.twig:25
+msgctxt "button"
+msgid "Get started"
+msgstr "Začať"
+
+#: templates/index.twig:32
+msgctxt "button"
+msgid "Custom page"
+msgstr "Vlastná stránka"

@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Language: kk-KZ\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Domain: theme\n"
+
+#: sections/header.twig:15
+msgctxt "header"
+msgid "Aikeedo Theme Starter"
+msgstr "Aikeedo бастапқы тақырыбы"
+
+#: sections/header.twig:16
+msgctxt "header"
+msgid "This is a starter theme for Aikeedo"
+msgstr "Бұл Aikeedo үшін бастапқы тақырып"
+
+#: templates/custom.twig:8
+msgctxt "custom"
+msgid "Custom page"
+msgstr "Арнайы бет"
+
+#: templates/custom.twig:9
+msgctxt "custom"
+msgid "This is a custom page"
+msgstr "Бұл арнайы бет"
+
+#: templates/custom.twig:16
+msgctxt "button"
+msgid "Go back"
+msgstr "Артқа қайту"
+
+#: templates/index.twig:21
+msgctxt "button"
+msgid "Sign in"
+msgstr "Кіру"
+
+#: templates/index.twig:25
+msgctxt "button"
+msgid "Get started"
+msgstr "Бастау"
+
+#: templates/index.twig:32
+msgctxt "button"
+msgid "Custom page"
+msgstr "Арнайы бет"

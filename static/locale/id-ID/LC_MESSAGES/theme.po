@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Language: id-ID\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Domain: theme\n"
+
+#: sections/header.twig:15
+msgctxt "header"
+msgid "Aikeedo Theme Starter"
+msgstr "Tema Awal Aikeedo"
+
+#: sections/header.twig:16
+msgctxt "header"
+msgid "This is a starter theme for Aikeedo"
+msgstr "Ini adalah tema awal untuk Aikeedo"
+
+#: templates/custom.twig:8
+msgctxt "custom"
+msgid "Custom page"
+msgstr "Halaman kustom"
+
+#: templates/custom.twig:9
+msgctxt "custom"
+msgid "This is a custom page"
+msgstr "Ini adalah halaman kustom"
+
+#: templates/custom.twig:16
+msgctxt "button"
+msgid "Go back"
+msgstr "Kembali"
+
+#: templates/index.twig:21
+msgctxt "button"
+msgid "Sign in"
+msgstr "Masuk"
+
+#: templates/index.twig:25
+msgctxt "button"
+msgid "Get started"
+msgstr "Mulai"
+
+#: templates/index.twig:32
+msgctxt "button"
+msgid "Custom page"
+msgstr "Halaman kustom"

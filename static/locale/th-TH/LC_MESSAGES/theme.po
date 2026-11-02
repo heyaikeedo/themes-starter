@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Language: th-TH\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Domain: theme\n"
+
+#: sections/header.twig:15
+msgctxt "header"
+msgid "Aikeedo Theme Starter"
+msgstr "ธีมเริ่มต้น Aikeedo"
+
+#: sections/header.twig:16
+msgctxt "header"
+msgid "This is a starter theme for Aikeedo"
+msgstr "นี่คือธีมเริ่มต้นสำหรับ Aikeedo"
+
+#: templates/custom.twig:8
+msgctxt "custom"
+msgid "Custom page"
+msgstr "หน้าที่กำหนดเอง"
+
+#: templates/custom.twig:9
+msgctxt "custom"
+msgid "This is a custom page"
+msgstr "นี่คือหน้าที่กำหนดเอง"
+
+#: templates/custom.twig:16
+msgctxt "button"
+msgid "Go back"
+msgstr "ย้อนกลับ"
+
+#: templates/index.twig:21
+msgctxt "button"
+msgid "Sign in"
+msgstr "เข้าสู่ระบบ"
+
+#: templates/index.twig:25
+msgctxt "button"
+msgid "Get started"
+msgstr "เริ่มต้นใช้งาน"
+
+#: templates/index.twig:32
+msgctxt "button"
+msgid "Custom page"
+msgstr "หน้าที่กำหนดเอง"

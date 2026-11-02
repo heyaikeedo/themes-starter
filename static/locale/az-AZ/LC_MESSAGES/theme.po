@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Language: az-AZ\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Domain: theme\n"
+
+#: sections/header.twig:15
+msgctxt "header"
+msgid "Aikeedo Theme Starter"
+msgstr "Aikeedo Theme Starter"
+
+#: sections/header.twig:16
+msgctxt "header"
+msgid "This is a starter theme for Aikeedo"
+msgstr "Bu, Aikeedo üçün başlanğıc mövzusudur"
+
+#: templates/custom.twig:8
+msgctxt "custom"
+msgid "Custom page"
+msgstr "Fərdi səhifə"
+
+#: templates/custom.twig:9
+msgctxt "custom"
+msgid "This is a custom page"
+msgstr "Bu, fərdi səhifədir"
+
+#: templates/custom.twig:16
+msgctxt "button"
+msgid "Go back"
+msgstr "Geri qayıt"
+
+#: templates/index.twig:21
+msgctxt "button"
+msgid "Sign in"
+msgstr "Daxil ol"
+
+#: templates/index.twig:25
+msgctxt "button"
+msgid "Get started"
+msgstr "Başla"
+
+#: templates/index.twig:32
+msgctxt "button"
+msgid "Custom page"
+msgstr "Fərdi səhifə"
